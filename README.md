@@ -1,6 +1,6 @@
 # AI-Driven-Upwork-Proposals-Tool
 # 🚀 Upwork Proposal Generator
-![AI-Driven-Upwork-Proposals-Tool Preview]( https://chatbot-documents-prod.s3.me-central-1.amazonaws.com/ChatDocuments/2025-9/1756729348161-Vite-React-09-01-2025_05_51_PM.png)
+![AI-Driven-Upwork-Proposals-Tool Preview](https://chatbot-documents-prod.s3.me-central-1.amazonaws.com/ChatDocuments/2025-9/1756903299377-Vite-React-09-03-2025_06_11_PM.png)
 A powerful AI-driven tool to create winning Upwork proposals that help freelancers land more projects with higher success rates.
 
 ## 📋 Table of Contents
